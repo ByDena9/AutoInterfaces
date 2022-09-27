@@ -35,5 +35,5 @@ if(my_gateways.__contains__(gateway)):
     print(f"Asignando IP: {ip}")
     setIpAddr('ens33', ip,gateway)
 else:
-    print("Localizacion no reconocida.")
+    print("hola que tal")
     
